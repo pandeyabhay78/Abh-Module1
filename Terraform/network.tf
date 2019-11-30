@@ -1,4 +1,4 @@
- Fetch AZs in the current region
+# Fetch AZs in the current region
 data "aws_availability_zones" "available" {
 }
 
